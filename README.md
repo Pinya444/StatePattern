@@ -99,7 +99,7 @@ State‑specific logic is completely removed from this class.
 
 📷 **UML Diagram – State Pattern for Vending Machine**
 
-> ![Strategy Pattern UML](Screenshot%202026-02-10%20222231.png)
+> ![Strategy Pattern UML](Screenshot 2026-02-20 142609.png)
 >
 > * `VendingMachine` holding a reference to `VendingMachineState`
 > * `IdleState`, `ItemSelectedState`, `DispensingState`, and `OutOfOrderState` implementing the state interface
